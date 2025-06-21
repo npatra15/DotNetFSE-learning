@@ -1,0 +1,15 @@
+/workspaces/DotNetFSE-learning/Week_1_6361647/Singleton_pattern/bin/Debug/net8.0/Singleton_pattern
+/workspaces/DotNetFSE-learning/Week_1_6361647/Singleton_pattern/bin/Debug/net8.0/Singleton_pattern.deps.json
+/workspaces/DotNetFSE-learning/Week_1_6361647/Singleton_pattern/bin/Debug/net8.0/Singleton_pattern.runtimeconfig.json
+/workspaces/DotNetFSE-learning/Week_1_6361647/Singleton_pattern/bin/Debug/net8.0/Singleton_pattern.dll
+/workspaces/DotNetFSE-learning/Week_1_6361647/Singleton_pattern/bin/Debug/net8.0/Singleton_pattern.pdb
+/workspaces/DotNetFSE-learning/Week_1_6361647/Singleton_pattern/obj/Debug/net8.0/Singleton_pattern.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DotNetFSE-learning/Week_1_6361647/Singleton_pattern/obj/Debug/net8.0/Singleton_pattern.AssemblyInfoInputs.cache
+/workspaces/DotNetFSE-learning/Week_1_6361647/Singleton_pattern/obj/Debug/net8.0/Singleton_pattern.AssemblyInfo.cs
+/workspaces/DotNetFSE-learning/Week_1_6361647/Singleton_pattern/obj/Debug/net8.0/Singleton_pattern.csproj.CoreCompileInputs.cache
+/workspaces/DotNetFSE-learning/Week_1_6361647/Singleton_pattern/obj/Debug/net8.0/Singleton_pattern.sourcelink.json
+/workspaces/DotNetFSE-learning/Week_1_6361647/Singleton_pattern/obj/Debug/net8.0/Singleton_pattern.dll
+/workspaces/DotNetFSE-learning/Week_1_6361647/Singleton_pattern/obj/Debug/net8.0/refint/Singleton_pattern.dll
+/workspaces/DotNetFSE-learning/Week_1_6361647/Singleton_pattern/obj/Debug/net8.0/Singleton_pattern.pdb
+/workspaces/DotNetFSE-learning/Week_1_6361647/Singleton_pattern/obj/Debug/net8.0/Singleton_pattern.genruntimeconfig.cache
+/workspaces/DotNetFSE-learning/Week_1_6361647/Singleton_pattern/obj/Debug/net8.0/ref/Singleton_pattern.dll
